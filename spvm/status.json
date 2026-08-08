@@ -1,0 +1,48 @@
+{
+  "status": "CURRENT",
+  "source": "Service de police de la Ville de Montréal",
+  "dataset": "Actes criminels",
+  "sourceUrl": "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/c6f482bf-bf0f-4960-8b2f-9982c211addd/download/actes-criminels.csv",
+  "license": "CC BY 4.0",
+  "pipelineUpdatedAt": "2026-08-08T18:33:38.987Z",
+  "todayMontreal": "2026-08-08",
+  "windowStart": "2026-05-11",
+  "windowEnd": "2026-08-08",
+  "windowDays": 90,
+  "latestCrimeDate": "2026-08-05",
+  "sourceLagDays": 3,
+  "sourceRows": 356288,
+  "windowRecords": 7018,
+  "mappedRecords": 5869,
+  "unmappedRecords": 1063,
+  "duplicateRecords": 86,
+  "categories": [
+    {
+      "category": "Vol dans / sur véhicule à moteur",
+      "count": 1575
+    },
+    {
+      "category": "Introduction",
+      "count": 1387
+    },
+    {
+      "category": "Méfait",
+      "count": 1274
+    },
+    {
+      "category": "Vol de véhicule à moteur",
+      "count": 1272
+    },
+    {
+      "category": "Vols qualifiés",
+      "count": 360
+    },
+    {
+      "category": "Infractions entrainant la mort",
+      "count": 1
+    }
+  ],
+  "spatialPrecision": "Privacy-obfuscated intersection",
+  "temporalPrecision": "Date + reporting shift",
+  "fingerprintNote": "Feature id is a deterministic SHA-256 fingerprint of published fields; it is NOT an official SPVM incident identifier."
+}
