@@ -1,0 +1,12 @@
+{
+  "name": "iqai-spvm-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated IQAI cache for Ville de Montréal / SPVM open crime data (90-day rolling window)",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "pipeline": "node scripts/run-pipeline.mjs",
+    "inspect": "node scripts/inspect-csv.mjs"
+  }
+}
