@@ -4,7 +4,7 @@
   "dataset": "Actes criminels",
   "sourceUrl": "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/c6f482bf-bf0f-4960-8b2f-9982c211addd/download/actes-criminels.csv",
   "license": "CC BY 4.0",
-  "pipelineUpdatedAt": "2026-08-28T14:02:53.776Z",
+  "pipelineUpdatedAt": "2026-08-28T14:03:08.371Z",
   "todayMontreal": "2026-08-28",
   "windowStart": "2026-05-31",
   "windowEnd": "2026-08-28",
