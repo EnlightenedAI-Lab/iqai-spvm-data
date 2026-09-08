@@ -4,38 +4,38 @@
   "dataset": "Actes criminels",
   "sourceUrl": "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/c6f482bf-bf0f-4960-8b2f-9982c211addd/download/actes-criminels.csv",
   "license": "CC BY 4.0",
-  "pipelineUpdatedAt": "2026-09-07T17:45:01.235Z",
-  "todayMontreal": "2026-09-07",
-  "windowStart": "2026-06-10",
-  "windowEnd": "2026-09-07",
+  "pipelineUpdatedAt": "2026-09-08T16:39:02.607Z",
+  "todayMontreal": "2026-09-08",
+  "windowStart": "2026-06-11",
+  "windowEnd": "2026-09-08",
   "windowDays": 90,
-  "latestCrimeDate": "2026-09-04",
+  "latestCrimeDate": "2026-09-05",
   "sourceLagDays": 3,
-  "sourceRows": 358579,
-  "windowRecords": 6497,
-  "mappedRecords": 5442,
+  "sourceRows": 358622,
+  "windowRecords": 6455,
+  "mappedRecords": 5401,
   "unmappedRecords": 974,
-  "duplicateRecords": 81,
+  "duplicateRecords": 80,
   "categories": [
     {
       "category": "Vol dans / sur véhicule à moteur",
-      "count": 1423
+      "count": 1399
     },
     {
       "category": "Introduction",
-      "count": 1361
+      "count": 1360
     },
     {
       "category": "Méfait",
-      "count": 1193
+      "count": 1184
     },
     {
       "category": "Vol de véhicule à moteur",
-      "count": 1122
+      "count": 1114
     },
     {
       "category": "Vols qualifiés",
-      "count": 339
+      "count": 340
     },
     {
       "category": "Infractions entrainant la mort",
